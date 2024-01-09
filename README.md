@@ -24,7 +24,7 @@
 
 <p align="center">
   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=mshdabiola&style=flat&color=blue"/> •   
-  <a href="https://user-badge.committers.top/india_private/mshdabiola"><img src="https://user-badge.committers.top/india_private/mshdabiola.svg"/></a> •
+  <a href="https://user-badge.committers.top/nigeria_private/mshdabiola"><img src="https://user-badge.committers.top/nigeria_private/mshdabiola.svg"/></a> •
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/mshdabiola?label=Followers&style=social"/> •
   <img src="https://img.shields.io/github/stars/mshdabiola?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> •
   <a href="https://github.com/sponsors/mshdabiola"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
