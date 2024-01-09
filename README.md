@@ -8,6 +8,7 @@
 <br/>
 
 <img align="right" height="250" width="400" alt="GIF" src="GIF/code.gif"/>
+
 - 👨🏽‍💻 My name is  **Lawal Abiola**
 - 🎓 Graduate of Unilorin
 - 💻 I develop Android and Desktop application
