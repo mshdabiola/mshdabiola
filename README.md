@@ -46,7 +46,7 @@
 #
 
 
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
+<h2>𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂</h2>
 
 <br/>
 <br/>
@@ -62,10 +62,10 @@
 <br/>
 
 
-<h1>
+<h2>
   Connect With Me
   <img src="GIF/Handshake.gif" height="25px"/>
-</h1>
+</h2>
 
 <p align="center">
   <br>
